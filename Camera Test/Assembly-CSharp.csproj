@@ -375,7 +375,7 @@
  <HintPath>E:/Programs/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="HtmlAgilityPack">
- <HintPath>E:/Yahel Nachum/School work/Senior College/MQP/Mobile Test Project Folder/Camera Test/Assets/Watson/ThirdParty/HtmlAgilityPack/HtmlAgilityPack.dll</HintPath>
+ <HintPath>E:/Yahel Nachum/School work/Senior College/MQP/AI_Entertainment_Applications_MQP/Camera Test/Assets/Watson/ThirdParty/HtmlAgilityPack/HtmlAgilityPack.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

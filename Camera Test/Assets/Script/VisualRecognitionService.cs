@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+﻿/*using UnityEngine;
 using System.Collections;
 
 public class VisualRecognitionService : MonoBehaviour {
@@ -30,3 +30,4 @@ public class VisualRecognitionService : MonoBehaviour {
 	
 	}
 }
+*/
