@@ -5,6 +5,8 @@ import java.io.FileInputStream;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
+import java.net.URLEncoder;
+import java.nio.charset.StandardCharsets;
 
 import javax.net.ssl.HttpsURLConnection;
 
@@ -25,14 +27,16 @@ public class Main {
 		//add reuqest header
 		con.setRequestMethod("POST");
 		//con.setRequestProperty("Authorization:", " CloudSight PK2x9PRpXn-3BSAh6QRdpA");
-		con.setRequestProperty("Authorization", OAuthCalculation.calculateOAuth());
+		con.setRequestProperty("Authorization", "CloudSight PK2x9PRpXn-3BSAh6QRdpA");//+OAuthCalculation.calculateOAuth());
+		//con.setRequestProperty("OAuth", OAuthCalculation.calculateOAuth());
 /*		con.setRequestProperty("User-Agent", USER_AGENT);
 		con.setRequestProperty("Accept-Language", "en-US,en;q=0.5");*/
-		//con.setRequestProperty(imagesString, imagesToken);
+		//con.setRequestProperty("image_request[locale]:", "en");
 		
 		//String urlParameters = "form-data: name=\""+imagesString+"\"; file-name=\""+imagesToken+"\"\n\r";//imagesString+combineToken+imagesToken;//apiString+combineToken+apiToken;//+combineQuery+versionString+combineToken+versionToken+combineQuery+imagesString+combineToken+imagesToken;
-
+		
 		String imagesToken = "E:/Users/Yahel/Desktop/jesus/3entombm.jpg";
+		String urlParameters = "image_request[locale]=en&image_request[image]=@"+imagesToken;
 		File image = new File(imagesToken);
 		System.out.println("file exists? "+image.exists());
 		
@@ -40,11 +44,15 @@ public class Main {
 		byte[] bArray = new byte[(int) image.length()];
 		iStream.read(bArray);
 		iStream.close();
+		
+		//urlParameters += convertByteArrayToString(bArray);
+		
+		//urlParameters = URLEncoder.encode(urlParameters, StandardCharsets.UTF_8.toString());
 
 		// Send post request
 		con.setDoOutput(true);
 		DataOutputStream wr = new DataOutputStream(con.getOutputStream());
-		//wr.writeBytes(urlParameters);
+		wr.writeBytes(urlParameters);
 		//wr.write(convertStringToByteArrayToString(OAuthCalculation.calculateOAuth()));
 		//wr.write(bArray);
 		//wr.write(bArray);

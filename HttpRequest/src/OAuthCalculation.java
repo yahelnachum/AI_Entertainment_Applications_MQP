@@ -11,26 +11,31 @@ import javax.xml.bind.DatatypeConverter;
 
 public class OAuthCalculation {
 
-	private static String imgRequestKey = "image_request[local]";
-	private static String imgRequestValue = "en";
+	public static String URL = "POST&https://api.cloudsightapi.com/";
 	
-	private static String oConsumerKey = "oauth_consumer_key";
-	private static String oConsumerValue = "PK2x9PRpXn-3BSAh6QRdpA";
+	public static String api_key = "PK2x9PRpXn-3BSAh6QRdpA";
+	public static String secret = "MtqVwfOVA2U8iT33e7Hs7A";
 	
-	private static String oNonceKey = "oauth_nonce";
-	private static String oNonceValue = "kYjzVBB8Y0ZFabxSWbWovY3uYSQ2pTgmZeNu2VS4cg";
+	public static String imgRequestKey = "image_request[local]";
+	public static String imgRequestValue = "en";
 	
-	private static String oSigMethodKey = "oauth_signature_method";
-	private static String oSigMethodValue = "HMAC-SHA1";
+	public static String oConsumerKey = "oauth_consumer_key";
+	public static String oConsumerValue = api_key;
 	
-	private static String oTimestampKey = "oauth_timestamp";
-	private static String oTimestampValue = "1318622958";
+	public static String oNonceKey = "oauth_nonce";
+	public static String oNonceValue = "kYjzVBB8Y0ZFabxSWbWovY3uYSQ2pTgmZeNu2VS4cg";
 	
-	private static String oTokenKey = "oauth_token";
-	private static String oTokenValue = "370773112-GmHxMAgYyLbNEtIKZeRNFsMKPR9EyMZeS9weJAEb";
+	public static String oSigMethodKey = "oauth_signature_method";
+	public static String oSigMethodValue = "HMAC-SHA1";
 	
-	private static String oVersionKey = "oauth_version";
-	private static String oVersionValue = "1.0";
+	public static String oTimestampKey = "oauth_timestamp";
+	public static String oTimestampValue = "1318622958";
+	
+	public static String oTokenKey = "oauth_token";
+	public static String oTokenValue = "370773112-GmHxMAgYyLbNEtIKZeRNFsMKPR9EyMZeS9weJAEb";
+	
+	public static String oVersionKey = "oauth_version";
+	public static String oVersionValue = "1.0";
 	
 	private static ArrayList<OAuthPair> pairs = new ArrayList<OAuthPair>();
 	
@@ -39,8 +44,8 @@ public class OAuthCalculation {
 		printPairs();
 
 		String fullOAuth = createFullOAuth();
-		System.out.println("Full OAuth before HMAC-SHA1: "+fullOAuth);
-		String hashedOAuthSig = hmacSha1(fullOAuth, "MtqVwfOVA2U8iT33e7Hs7A");
+		System.out.printf("Full OAuth before %s: %s\n", oSigMethodValue, fullOAuth);
+		String hashedOAuthSig = hmacSha1(fullOAuth, secret);
 		String oAuthRequest = createOAuthRequest(hashedOAuthSig);
 		
 		
@@ -51,7 +56,7 @@ public class OAuthCalculation {
 	
 	private static String createOAuthRequest(String hashedOAuthSig) {
 		StringBuilder sb = new StringBuilder();
-		sb.append("OAuth ");
+		//sb.append("OAuth ");
 		for(int i = 0; i < pairs.size(); i++){
 			if(pairs.get(i).getKey().compareTo(imgRequestKey) != 0){
 				sb.append(pairs.get(i).getKey());
@@ -99,7 +104,6 @@ public class OAuthCalculation {
 			}
 		}
 		
-		String URL = "POST&https://api.cloudsightapi.com/";
 		String fullOAuth = URL + sb.toString();
 		fullOAuth = URLEncoder.encode(fullOAuth, StandardCharsets.UTF_8.toString());
 		
