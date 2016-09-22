@@ -5,18 +5,100 @@ import java.io.FileInputStream;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
-import java.net.URLEncoder;
-import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
 
 import javax.net.ssl.HttpsURLConnection;
+import javax.xml.bind.DatatypeConverter;
 
 public class Main {
 
 	public static void main(String[] args) throws Exception {
 		//Main.sendPostWatson();
 		Main.sendPostCloudSight();
+		//Main.sendPostClarifai();
 	}
 
+	private static void sendPostClarifai() throws Exception  {
+		
+		String url = "https://api.clarifai.com/v1/tag";
+		
+		URL obj = new URL(url);
+		HttpsURLConnection con = (HttpsURLConnection) obj.openConnection();
+
+		//add reuqest header
+		con.setRequestMethod("POST");
+		//con.setRequestProperty("Authorization:", " CloudSight PK2x9PRpXn-3BSAh6QRdpA");
+		con.setRequestProperty("Authorization", "Bearer tOuvjjaXWL7Zuy9kIcOwGgpjiYBMQm");//+OAuthCalculation.calculateOAuth());
+		//con.setRequestProperty("OAuth", OAuthCalculation.calculateOAuth());
+/*		con.setRequestProperty("User-Agent", USER_AGENT);
+		con.setRequestProperty("Accept-Language", "en-US,en;q=0.5");*/
+		//con.setRequestProperty("Content-Type", "multipart/form-data; boundary=*****1234567890");
+		
+		//String urlParameters = "form-data: name=\""+imagesString+"\"; file-name=\""+imagesToken+"\"\n\r";//imagesString+combineToken+imagesToken;//apiString+combineToken+apiToken;//+combineQuery+versionString+combineToken+versionToken+combineQuery+imagesString+combineToken+imagesToken;
+		
+		String imagesToken = "unityWebcam.jpg";
+		String urlParameters = "encoded_data=";//@E:/Users/Yahel/Desktop/jesus/3entombm.jpg\n\r";
+		File image = new File(imagesToken);
+		System.out.println("file exists? "+image.exists());
+		
+		/*FileInputStream iStream = new FileInputStream(image);
+		byte[] bArray = new byte[(int) image.length()];
+		iStream.read(bArray);
+		iStream.close();*/
+		
+		byte[] bArray = Files.readAllBytes(image.toPath());
+		
+		//urlParameters += convertByteArrayToString(bArray);
+		
+		//urlParameters = URLEncoder.encode(urlParameters, StandardCharsets.UTF_8.toString());
+
+		// Send post request
+		con.setDoOutput(true);
+		DataOutputStream wr = new DataOutputStream(con.getOutputStream());
+		//wr.writeBytes("*****1234567890");
+		wr.writeBytes(urlParameters);
+		//wr.writeBytes("*****1234567890");
+		//wr.writeBytes(DatatypeConverter.printBase64Binary(bArray));
+		//wr.write(bArray);
+		wr.flush();
+		wr.close();
+
+		
+		int responseCode = con.getResponseCode();
+		System.out.println("\nSending 'POST' request to URL : " + url);
+		//System.out.println("Post parameters : " + urlParameters);
+		System.out.println("Response Code : " + responseCode);
+
+		if(responseCode == 200){
+			BufferedReader in = new BufferedReader(
+			        new InputStreamReader(con.getInputStream()));
+			String inputLine;
+			StringBuffer response = new StringBuffer();
+	
+			while ((inputLine = in.readLine()) != null) {
+				response.append(inputLine);
+			}
+			in.close();
+	
+			//print result
+			System.out.println(response.toString());
+		}
+		else{
+			BufferedReader in = new BufferedReader(
+			        new InputStreamReader(con.getErrorStream()));
+			String inputLine;
+			StringBuffer response = new StringBuffer();
+	
+			while ((inputLine = in.readLine()) != null) {
+				response.append(inputLine);
+			}
+			in.close();
+	
+			//print result
+			System.out.println(response.toString());
+		}
+	}
+	
 	private static void sendPostCloudSight() throws Exception {
 		
 		String url = "https://api.cloudsightapi.com/image_requests";
@@ -36,7 +118,7 @@ public class Main {
 		//String urlParameters = "form-data: name=\""+imagesString+"\"; file-name=\""+imagesToken+"\"\n\r";//imagesString+combineToken+imagesToken;//apiString+combineToken+apiToken;//+combineQuery+versionString+combineToken+versionToken+combineQuery+imagesString+combineToken+imagesToken;
 		
 		String imagesToken = "E:/Users/Yahel/Desktop/jesus/3entombm.jpg";
-		String urlParameters = "image_request[locale]=en&image_request[image]=@"+imagesToken;
+		String urlParameters = "image_request[locale]=en&image_request[image]=";//@"+imagesToken;
 		File image = new File(imagesToken);
 		System.out.println("file exists? "+image.exists());
 		
@@ -54,7 +136,7 @@ public class Main {
 		DataOutputStream wr = new DataOutputStream(con.getOutputStream());
 		wr.writeBytes(urlParameters);
 		//wr.write(convertStringToByteArrayToString(OAuthCalculation.calculateOAuth()));
-		//wr.write(bArray);
+		wr.write(bArray);
 		//wr.write(bArray);
 		wr.flush();
 		wr.close();
