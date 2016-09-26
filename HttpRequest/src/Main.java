@@ -259,9 +259,9 @@ public class Main {
 		
 		
 		// figure out result of picture
-		String status = "";
+		String status = "not completed";
 		String response = "";
-		while(status.compareTo("completed") != 0){
+		while(status.compareTo("not completed") == 0){
 			String url1 = "http://api.cloudsightapi.com/image_responses/"+token;
 	
 			URL obj1 = new URL(url1);
@@ -290,6 +290,8 @@ public class Main {
 			
 			status = (new JSONObject(response1.toString())).get("status").toString();
 			response = response1.toString();
+			
+			Thread.sleep(2000);
 		}
 		
 		System.out.println(response);
