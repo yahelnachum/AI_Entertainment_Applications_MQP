@@ -1,0 +1,11 @@
+cloudsight
+	email						api_key
+	ynachum1@wpi.edu			ht2VhvQapfTGpKX37mB8yQ
+	dvqnltit.lio@20email.eu		eHfcdDKNNuplFbXw7vMUpQ
+	5325wkwp.bjs@20minute.email	sSXwCsxn6h6KDlhv4e9iBw
+	
+watson:
+	email						password	api_key
+											5d9f0163843edd0f35f1fd75429b1dc1d27ccf3c
+	h3144683@mvrht.com			WhereToGo	21049e4a2ffda3adaaa92d8262708174ddc5201b
+	h3145266@mvrht.com			LetMeGoNow	ff582a16a3ece28e2c40f9da3fd157be1f232f89

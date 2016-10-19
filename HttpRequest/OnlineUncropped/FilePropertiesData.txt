@@ -1,0 +1,613 @@
+0,C:/Users/yahel/Downloads/Categories/animals/bird/14centre (1).jpg,820,1017,833940
+1,C:/Users/yahel/Downloads/Categories/animals/bird/6lady.jpg,803,1163,933889
+2,C:/Users/yahel/Downloads/Categories/animals/bird/birdspax (1).jpg,1250,1088,1360000
+3,C:/Users/yahel/Downloads/Categories/animals/bird/forestfl.jpg,872,1071,933912
+4,C:/Users/yahel/Downloads/Categories/animals/bird/garden_e (1).jpg,1223,750,917250
+5,C:/Users/yahel/Downloads/Categories/animals/bird/mockery (1).jpg,1118,806,901108
+6,C:/Users/yahel/Downloads/Categories/animals/bird/noahsarx.jpg,980,1206,1181880
+7,C:/Users/yahel/Downloads/Categories/animals/bird/orpheus (1).jpg,1300,875,1137500
+8,C:/Users/yahel/Downloads/Categories/animals/bird/paradis0 (1).jpg,1300,840,1092000
+9,C:/Users/yahel/Downloads/Categories/animals/bird/paradlan (1).jpg,1213,900,1091700
+10,C:/Users/yahel/Downloads/Categories/animals/bird/peacocks (1).jpg,857,1014,868998
+11,C:/Users/yahel/Downloads/Categories/animals/bird/study3.jpg,624,500,312000
+12,C:/Users/yahel/Downloads/Categories/animals/camel/04nunzia.jpg,1058,1300,1375400
+13,C:/Users/yahel/Downloads/Categories/animals/camel/106muril.jpg,905,635,574675
+14,C:/Users/yahel/Downloads/Categories/animals/camel/142misc.jpg,1180,750,885000
+15,C:/Users/yahel/Downloads/Categories/animals/camel/3mark.jpg,1100,1372,1509200
+16,C:/Users/yahel/Downloads/Categories/animals/camel/arabian.jpg,1100,1060,1166000
+17,C:/Users/yahel/Downloads/Categories/animals/camel/chris021.jpg,1022,1654,1690388
+18,C:/Users/yahel/Downloads/Categories/animals/camel/orpheus.jpg,1300,875,1137500
+19,C:/Users/yahel/Downloads/Categories/animals/camel/paradlan.jpg,1213,900,1091700
+20,C:/Users/yahel/Downloads/Categories/animals/camel/qu_sheba.jpg,1034,770,796180
+21,C:/Users/yahel/Downloads/Categories/animals/camel/tunis.jpg,1200,1002,1202400
+22,C:/Users/yahel/Downloads/Categories/animals/cat/01still1.jpg,900,1120,1008000
+23,C:/Users/yahel/Downloads/Categories/animals/cat/01still2.jpg,953,1200,1143600
+24,C:/Users/yahel/Downloads/Categories/animals/cat/03tureen.jpg,1152,800,921600
+25,C:/Users/yahel/Downloads/Categories/animals/cat/06animal (1).jpg,1300,1007,1309100
+26,C:/Users/yahel/Downloads/Categories/animals/cat/children (1).jpg,750,952,714000
+27,C:/Users/yahel/Downloads/Categories/animals/cat/children.jpg,1200,901,1081200
+28,C:/Users/yahel/Downloads/Categories/animals/cat/drinker.jpg,747,1043,779121
+29,C:/Users/yahel/Downloads/Categories/animals/cat/fall_max (1).jpg,1053,997,1049841
+30,C:/Users/yahel/Downloads/Categories/animals/cat/paradlan (1).jpg,1213,900,1091700
+31,C:/Users/yahel/Downloads/Categories/animals/cat/pendant1.jpg,950,1200,1140000
+32,C:/Users/yahel/Downloads/Categories/animals/cat/womancat.jpg,728,1000,728000
+33,C:/Users/yahel/Downloads/Categories/animals/cat/young_wo.jpg,920,1100,1012000
+34,C:/Users/yahel/Downloads/Categories/animals/cow/06animal (1).jpg,1300,1007,1309100
+35,C:/Users/yahel/Downloads/Categories/animals/cow/11adorat.jpg,1400,1010,1414000
+36,C:/Users/yahel/Downloads/Categories/animals/cow/27cows (1).jpg,1434,1100,1577400
+37,C:/Users/yahel/Downloads/Categories/animals/cow/corner.jpg,1400,950,1330000
+38,C:/Users/yahel/Downloads/Categories/animals/cow/cows.jpg,1417,1100,1558700
+39,C:/Users/yahel/Downloads/Categories/animals/cow/cowsheep.jpg,1013,1300,1316900
+40,C:/Users/yahel/Downloads/Categories/animals/cow/dairymai.jpg,1026,632,648432
+41,C:/Users/yahel/Downloads/Categories/animals/cow/landscap.jpg,1356,900,1220400
+42,C:/Users/yahel/Downloads/Categories/animals/cow/l_evenin (1).jpg,967,700,676900
+43,C:/Users/yahel/Downloads/Categories/animals/cow/l_evenix.jpg,1500,1098,1647000
+44,C:/Users/yahel/Downloads/Categories/animals/cow/orpheus.jpg,1300,875,1137500
+45,C:/Users/yahel/Downloads/Categories/animals/cow/peasants.jpg,1500,1187,1780500
+46,C:/Users/yahel/Downloads/Categories/animals/cow/shepher (1).jpg,1071,1059,1134189
+47,C:/Users/yahel/Downloads/Categories/animals/cow/wmilking.jpg,1100,1207,1327700
+48,C:/Users/yahel/Downloads/Categories/animals/dog/06animal.jpg,1300,1007,1309100
+49,C:/Users/yahel/Downloads/Categories/animals/dog/09hounds.jpg,1331,1007,1340317
+50,C:/Users/yahel/Downloads/Categories/animals/dog/10hallet.jpg,1000,1325,1325000
+51,C:/Users/yahel/Downloads/Categories/animals/dog/14pastor.jpg,1110,1100,1221000
+52,C:/Users/yahel/Downloads/Categories/animals/dog/2sposi12.jpg,750,1400,1050000
+53,C:/Users/yahel/Downloads/Categories/animals/dog/birds_sp.jpg,1016,840,853440
+54,C:/Users/yahel/Downloads/Categories/animals/dog/diana_hu.jpg,1350,1059,1429650
+55,C:/Users/yahel/Downloads/Categories/animals/dog/dwarf.jpg,700,930,651000
+56,C:/Users/yahel/Downloads/Categories/animals/dog/fall_max.jpg,1053,997,1049841
+57,C:/Users/yahel/Downloads/Categories/animals/dog/selfport.jpg,1100,1312,1443200
+58,C:/Users/yahel/Downloads/Categories/animals/dog/spaniel1.jpg,1024,788,806912
+59,C:/Users/yahel/Downloads/Categories/animals/dog/spaniels.jpg,1117,700,781900
+60,C:/Users/yahel/Downloads/Categories/animals/dog/stillif2.jpg,606,1400,848400
+61,C:/Users/yahel/Downloads/Categories/animals/dog/terriers.jpg,1274,800,1019200
+62,C:/Users/yahel/Downloads/Categories/animals/dog/view_dog.jpg,1162,800,929600
+63,C:/Users/yahel/Downloads/Categories/animals/donkey/02right3.jpg,730,1008,735840
+64,C:/Users/yahel/Downloads/Categories/animals/donkey/098ecsta.jpg,1034,900,930600
+65,C:/Users/yahel/Downloads/Categories/animals/donkey/11adorat (1).jpg,1400,1010,1414000
+66,C:/Users/yahel/Downloads/Categories/animals/donkey/adormagp.jpg,1700,569,967300
+67,C:/Users/yahel/Downloads/Categories/animals/donkey/adormagp12.jpg,1057,1100,1162700
+68,C:/Users/yahel/Downloads/Categories/animals/donkey/balaam.jpg,1511,1000,1511000
+69,C:/Users/yahel/Downloads/Categories/animals/donkey/bingley.jpg,1500,1128,1692000
+70,C:/Users/yahel/Downloads/Categories/animals/donkey/cattle.jpg,1500,1294,1941000
+71,C:/Users/yahel/Downloads/Categories/animals/donkey/cowsheep (1).jpg,1013,1300,1316900
+72,C:/Users/yahel/Downloads/Categories/animals/donkey/landruin.jpg,1500,1171,1756500
+73,C:/Users/yahel/Downloads/Categories/animals/donkey/shepher.jpg,1071,1059,1134189
+74,C:/Users/yahel/Downloads/Categories/animals/fish/01still1 (1).jpg,900,1120,1008000
+75,C:/Users/yahel/Downloads/Categories/animals/fish/35fish_g.jpg,862,1030,887860
+76,C:/Users/yahel/Downloads/Categories/animals/fish/6stilli4.jpg,1414,1100,1555400
+77,C:/Users/yahel/Downloads/Categories/animals/fish/boybaske.jpg,981,770,755370
+78,C:/Users/yahel/Downloads/Categories/animals/fish/f_monger.jpg,1400,1145,1603000
+79,C:/Users/yahel/Downloads/Categories/animals/fish/harbours.jpg,1030,684,704520
+80,C:/Users/yahel/Downloads/Categories/animals/fish/larder.jpg,698,900,628200
+81,C:/Users/yahel/Downloads/Categories/animals/fish/paradis0.jpg,1300,840,1092000
+82,C:/Users/yahel/Downloads/Categories/animals/fish/scaling.jpg,860,943,810980
+83,C:/Users/yahel/Downloads/Categories/animals/fish/stillifz.jpg,1400,782,1094800
+84,C:/Users/yahel/Downloads/Categories/animals/fish/still_fi.jpg,877,700,613900
+85,C:/Users/yahel/Downloads/Categories/animals/hens/05herbal.jpg,701,800,560800
+86,C:/Users/yahel/Downloads/Categories/animals/hens/birds.jpg,1119,1400,1566600
+87,C:/Users/yahel/Downloads/Categories/animals/hens/birds_sp.jpg,1016,840,853440
+88,C:/Users/yahel/Downloads/Categories/animals/hens/bogdan02.jpg,950,694,659300
+89,C:/Users/yahel/Downloads/Categories/animals/hens/chickens-50.jpg,626,512,320512
+90,C:/Users/yahel/Downloads/Categories/animals/hens/peacock.jpg,870,1100,957000
+91,C:/Users/yahel/Downloads/Categories/animals/hens/poultry.jpg,1050,1391,1460550
+92,C:/Users/yahel/Downloads/Categories/animals/hens/rooster (1).jpg,777,840,652680
+93,C:/Users/yahel/Downloads/Categories/animals/hens/rooster.jpg,900,713,641700
+94,C:/Users/yahel/Downloads/Categories/animals/hens/stillhen.jpg,1129,770,869330
+95,C:/Users/yahel/Downloads/Categories/animals/horse/06animal (1).jpg,1300,1007,1309100
+96,C:/Users/yahel/Downloads/Categories/animals/horse/14centre.jpg,820,1017,833940
+97,C:/Users/yahel/Downloads/Categories/animals/horse/2sposi12 (1).jpg,750,1400,1050000
+98,C:/Users/yahel/Downloads/Categories/animals/horse/409delac.jpg,820,1008,826560
+99,C:/Users/yahel/Downloads/Categories/animals/horse/adam_eve.jpg,1074,785,843090
+100,C:/Users/yahel/Downloads/Categories/animals/horse/adormag.jpg,1200,1277,1532400
+101,C:/Users/yahel/Downloads/Categories/animals/horse/cornar02.jpg,1400,830,1162000
+102,C:/Users/yahel/Downloads/Categories/animals/horse/corner.jpg,1400,950,1330000
+103,C:/Users/yahel/Downloads/Categories/animals/horse/day_farm.jpg,1350,765,1032750
+104,C:/Users/yahel/Downloads/Categories/animals/horse/garden_e.jpg,1223,750,917250
+105,C:/Users/yahel/Downloads/Categories/animals/horse/horses1.jpg,1105,850,939250
+106,C:/Users/yahel/Downloads/Categories/animals/horse/orpheus (1).jpg,1300,875,1137500
+107,C:/Users/yahel/Downloads/Categories/animals/horse/paradis0.jpg,1300,840,1092000
+108,C:/Users/yahel/Downloads/Categories/animals/horse/paradis1.jpg,1150,754,867100
+109,C:/Users/yahel/Downloads/Categories/animals/horse/paradlan.jpg,1213,900,1091700
+110,C:/Users/yahel/Downloads/Categories/animals/horse/peasants (1).jpg,1500,1187,1780500
+111,C:/Users/yahel/Downloads/Categories/animals/horse/stgeorge.jpg,634,1020,646680
+112,C:/Users/yahel/Downloads/Categories/animals/lamb/04garden.jpg,1175,814,956450
+113,C:/Users/yahel/Downloads/Categories/animals/lamb/06animal.jpg,1300,1007,1309100
+114,C:/Users/yahel/Downloads/Categories/animals/lamb/15sheela.jpg,844,604,509776
+115,C:/Users/yahel/Downloads/Categories/animals/lamb/1angel4.jpg,900,1082,973800
+116,C:/Users/yahel/Downloads/Categories/animals/lamb/38lamb.jpg,900,1161,1044900
+117,C:/Users/yahel/Downloads/Categories/animals/lamb/amburgh (1).jpg,1429,908,1297532
+118,C:/Users/yahel/Downloads/Categories/animals/lamb/cowsheep (1).jpg,1013,1300,1316900
+119,C:/Users/yahel/Downloads/Categories/animals/lamb/dwarf (1).jpg,700,930,651000
+120,C:/Users/yahel/Downloads/Categories/animals/lamb/l3adora4.jpg,843,1300,1095900
+121,C:/Users/yahel/Downloads/Categories/animals/lamb/mad_lamb.jpg,1100,1327,1459700
+122,C:/Users/yahel/Downloads/Categories/animals/lion/06mark.jpg,1422,522,742284
+123,C:/Users/yahel/Downloads/Categories/animals/lion/512delad.jpg,1500,1214,1821000
+124,C:/Users/yahel/Downloads/Categories/animals/lion/513delac.jpg,900,688,619200
+125,C:/Users/yahel/Downloads/Categories/animals/lion/amburgh.jpg,1429,908,1297532
+126,C:/Users/yahel/Downloads/Categories/animals/lion/istedlio.jpg,900,1157,1041300
+127,C:/Users/yahel/Downloads/Categories/animals/lion/lion.jpg,1125,900,1012500
+128,C:/Users/yahel/Downloads/Categories/animals/lion/lionrest.jpg,1050,850,892500
+129,C:/Users/yahel/Downloads/Categories/animals/lion/paradis0 (1).jpg,1300,840,1092000
+130,C:/Users/yahel/Downloads/Categories/animals/lion/paradlan (1).jpg,1213,900,1091700
+131,C:/Users/yahel/Downloads/Categories/animals/lion/p_carta1.jpg,902,1095,987690
+132,C:/Users/yahel/Downloads/Categories/animals/lion/zlion.jpg,1171,796,932116
+133,C:/Users/yahel/Downloads/Categories/animals/lion/zlions.jpg,814,649,528286
+134,C:/Users/yahel/Downloads/Categories/animals/monkey/03monkey.jpg,1200,1012,1214400
+135,C:/Users/yahel/Downloads/Categories/animals/monkey/fall_max.jpg,1053,997,1049841
+136,C:/Users/yahel/Downloads/Categories/animals/monkey/hairy.jpg,1332,1000,1332000
+137,C:/Users/yahel/Downloads/Categories/animals/monkey/merry_co.jpg,1200,1321,1585200
+138,C:/Users/yahel/Downloads/Categories/animals/monkey/monkey (1).jpg,1202,800,961600
+139,C:/Users/yahel/Downloads/Categories/animals/monkey/monkey.jpg,1007,771,776397
+140,C:/Users/yahel/Downloads/Categories/animals/monkey/monkeydo.jpg,763,850,648550
+141,C:/Users/yahel/Downloads/Categories/animals/monkey/monkeys.jpg,1080,700,756000
+142,C:/Users/yahel/Downloads/Categories/animals/monkey/singerie.jpg,1217,911,1108687
+143,C:/Users/yahel/Downloads/Categories/animals/monkey/stil_lif.jpg,950,710,674500
+144,C:/Users/yahel/Downloads/Categories/animals/monkey/young_m.jpg,900,1183,1064700
+145,C:/Users/yahel/Downloads/Categories/animals/owl/06l_owl.jpg,682,935,637670
+146,C:/Users/yahel/Downloads/Categories/animals/owl/15centre.jpg,830,1082,898060
+147,C:/Users/yahel/Downloads/Categories/animals/owl/513fried.jpg,911,900,819900
+148,C:/Users/yahel/Downloads/Categories/animals/owl/birds2.jpg,800,1129,903200
+149,C:/Users/yahel/Downloads/Categories/animals/owl/bogdan07.jpg,851,600,510600
+150,C:/Users/yahel/Downloads/Categories/animals/owl/lazarus1.jpg,604,843,509172
+151,C:/Users/yahel/Downloads/Categories/animals/owl/mockery.jpg,1118,806,901108
+152,C:/Users/yahel/Downloads/Categories/animals/owl/spaniel2.jpg,1126,939,1057314
+153,C:/Users/yahel/Downloads/Categories/animals/owl/stillif3.jpg,1080,800,864000
+154,C:/Users/yahel/Downloads/Categories/animals/owl/stil_owl.jpg,1125,801,901125
+155,C:/Users/yahel/Downloads/Categories/animals/peacock/04garden (1).jpg,1175,814,956450
+156,C:/Users/yahel/Downloads/Categories/animals/peacock/bogdan02.jpg,950,694,659300
+157,C:/Users/yahel/Downloads/Categories/animals/peacock/mockery.jpg,1118,806,901108
+158,C:/Users/yahel/Downloads/Categories/animals/peacock/pairpeac.jpg,1400,1139,1594600
+159,C:/Users/yahel/Downloads/Categories/animals/peacock/paradis0.jpg,1300,840,1092000
+160,C:/Users/yahel/Downloads/Categories/animals/peacock/paradlan.jpg,1213,900,1091700
+161,C:/Users/yahel/Downloads/Categories/animals/peacock/peacock (1).jpg,727,1002,728454
+162,C:/Users/yahel/Downloads/Categories/animals/peacock/peacock (2).jpg,1067,1500,1600500
+163,C:/Users/yahel/Downloads/Categories/animals/peacock/peacock (3).jpg,870,1100,957000
+164,C:/Users/yahel/Downloads/Categories/animals/peacock/peacock.jpg,800,1086,868800
+165,C:/Users/yahel/Downloads/Categories/animals/peacock/peacocks.jpg,857,1014,868998
+166,C:/Users/yahel/Downloads/Categories/animals/roosters/05herbal.jpg,701,800,560800
+167,C:/Users/yahel/Downloads/Categories/animals/roosters/06animal.jpg,1300,1007,1309100
+168,C:/Users/yahel/Downloads/Categories/animals/roosters/birdspar.jpg,1247,1029,1283163
+169,C:/Users/yahel/Downloads/Categories/animals/roosters/birdspax.jpg,1250,1088,1360000
+170,C:/Users/yahel/Downloads/Categories/animals/roosters/day_farm (1).jpg,1350,765,1032750
+171,C:/Users/yahel/Downloads/Categories/animals/roosters/noahsarx (1).jpg,980,1206,1181880
+172,C:/Users/yahel/Downloads/Categories/animals/roosters/orpheus.jpg,970,650,630500
+173,C:/Users/yahel/Downloads/Categories/animals/roosters/paradlan.jpg,1213,900,1091700
+174,C:/Users/yahel/Downloads/Categories/animals/roosters/rooster (2).jpg,900,713,641700
+175,C:/Users/yahel/Downloads/Categories/animals/roosters/rooster.jpg,777,840,652680
+176,C:/Users/yahel/Downloads/Categories/dining/food/fruit/apple/2vario04.jpg,1488,1100,1636800
+177,C:/Users/yahel/Downloads/Categories/dining/food/fruit/apple/5season (1).jpg,962,1300,1250600
+178,C:/Users/yahel/Downloads/Categories/dining/food/fruit/apple/agliard2.jpg,1152,800,921600
+179,C:/Users/yahel/Downloads/Categories/dining/food/fruit/apple/basketfr.jpg,1300,926,1203800
+180,C:/Users/yahel/Downloads/Categories/dining/food/fruit/apple/fall_max (1).jpg,1053,997,1049841
+181,C:/Users/yahel/Downloads/Categories/dining/food/fruit/apple/peeling.jpg,734,880,645920
+182,C:/Users/yahel/Downloads/Categories/dining/food/fruit/apple/pendant1.jpg,850,935,794750
+183,C:/Users/yahel/Downloads/Categories/dining/food/fruit/apple/stilfrui.jpg,963,680,654840
+184,C:/Users/yahel/Downloads/Categories/dining/food/fruit/apple/stillife (2).jpg,1100,866,952600
+185,C:/Users/yahel/Downloads/Categories/dining/food/fruit/apple/stillife (3).jpg,1030,672,692160
+186,C:/Users/yahel/Downloads/Categories/dining/food/fruit/apple/stillife.jpg,1231,750,923250
+187,C:/Users/yahel/Downloads/Categories/dining/food/fruit/apple/stillife1.jpg,1100,784,862400
+188,C:/Users/yahel/Downloads/Categories/dining/food/fruit/apple/still_li.jpg,1799,1000,1799000
+189,C:/Users/yahel/Downloads/Categories/dining/food/fruit/apple/stil_gra (1).jpg,900,700,630000
+190,C:/Users/yahel/Downloads/Categories/dining/food/fruit/grapes/2vario04 (1).jpg,1488,1100,1636800
+191,C:/Users/yahel/Downloads/Categories/dining/food/fruit/grapes/5season.jpg,962,1300,1250600
+192,C:/Users/yahel/Downloads/Categories/dining/food/fruit/grapes/basketfr (1).jpg,1300,926,1203800
+193,C:/Users/yahel/Downloads/Categories/dining/food/fruit/grapes/stilewer.jpg,1400,834,1167600
+194,C:/Users/yahel/Downloads/Categories/dining/food/fruit/grapes/stilfrui (1).jpg,963,680,654840
+195,C:/Users/yahel/Downloads/Categories/dining/food/fruit/grapes/stillif2.jpg,1150,774,890100
+196,C:/Users/yahel/Downloads/Categories/dining/food/fruit/grapes/stillife (1).jpg,1231,750,923250
+197,C:/Users/yahel/Downloads/Categories/dining/food/fruit/grapes/stillife (2).jpg,1100,784,862400
+198,C:/Users/yahel/Downloads/Categories/dining/food/fruit/grapes/stillife.jpg,1279,1030,1317370
+199,C:/Users/yahel/Downloads/Categories/dining/food/fruit/grapes/stilvase.jpg,1072,770,825440
+200,C:/Users/yahel/Downloads/Categories/dining/food/fruit/grapes/stil_gra.jpg,900,700,630000
+201,C:/Users/yahel/Downloads/Categories/dining/food/fruit/pear/03tureen (1).jpg,1152,800,921600
+202,C:/Users/yahel/Downloads/Categories/dining/food/fruit/pear/12pears.jpg,1024,800,819200
+203,C:/Users/yahel/Downloads/Categories/dining/food/fruit/pear/four3.jpg,1000,1319,1319000
+204,C:/Users/yahel/Downloads/Categories/dining/food/fruit/pear/specimen.jpg,731,1034,755854
+205,C:/Users/yahel/Downloads/Categories/dining/food/fruit/pear/stilewer (1).jpg,1400,834,1167600
+206,C:/Users/yahel/Downloads/Categories/dining/food/fruit/pear/stillif5.jpg,1125,900,1012500
+207,C:/Users/yahel/Downloads/Categories/dining/food/fruit/pear/stillife (1).jpg,2004,700,1402800
+208,C:/Users/yahel/Downloads/Categories/dining/food/fruit/pear/stillife (3).jpg,1100,784,862400
+209,C:/Users/yahel/Downloads/Categories/dining/food/fruit/pear/stil_gra.jpg,900,700,630000
+210,C:/Users/yahel/Downloads/Categories/dining/food/fruit/pear/stimelon.jpg,1030,778,801340
+211,C:/Users/yahel/Downloads/Categories/dining/furniture/empty chair/04d_1650.jpg,972,1227,1192644
+212,C:/Users/yahel/Downloads/Categories/dining/furniture/empty chair/04d_1651.jpg,1000,1299,1299000
+213,C:/Users/yahel/Downloads/Categories/dining/furniture/empty chair/1i_5arm.jpg,750,1309,981750
+214,C:/Users/yahel/Downloads/Categories/dining/furniture/empty chair/22hooch.jpg,1042,920,958640
+215,C:/Users/yahel/Downloads/Categories/dining/furniture/empty chair/3d_1armc.jpg,834,1200,1000800
+216,C:/Users/yahel/Downloads/Categories/dining/furniture/empty chair/3d_3armc.jpg,900,1240,1116000
+217,C:/Users/yahel/Downloads/Categories/dining/furniture/empty chair/4f_3armc.jpg,800,1218,974400
+218,C:/Users/yahel/Downloads/Categories/dining/furniture/empty chair/arles59.jpg,1076,1400,1506400
+219,C:/Users/yahel/Downloads/Categories/dining/furniture/empty chair/arles60.jpg,1053,1300,1368900
+220,C:/Users/yahel/Downloads/Categories/dining/furniture/empty chair/chair.jpg,700,1232,862400
+221,C:/Users/yahel/Downloads/Categories/dining/silverware/fork/CUR2591.jpg,1200,375,450000
+222,C:/Users/yahel/Downloads/Categories/dining/silverware/fork/DP9520.jpg,1200,275,330000
+223,C:/Users/yahel/Downloads/Categories/dining/silverware/fork/scrubbin (1).jpg,1246,985,1227310
+224,C:/Users/yahel/Downloads/Categories/dining/silverware/fork/stil_oys.jpg,1400,881,1233400
+225,C:/Users/yahel/Downloads/Categories/dining/silverware/knife/11still.jpg,1400,1086,1520400
+226,C:/Users/yahel/Downloads/Categories/dining/silverware/knife/12peache.jpg,1160,900,1044000
+227,C:/Users/yahel/Downloads/Categories/dining/silverware/knife/33isaac.jpg,1284,1000,1284000
+228,C:/Users/yahel/Downloads/Categories/dining/silverware/knife/beaneate.jpg,1011,850,859350
+229,C:/Users/yahel/Downloads/Categories/dining/silverware/knife/cherries.jpg,1361,1000,1361000
+230,C:/Users/yahel/Downloads/Categories/dining/silverware/knife/stillif5.jpg,1200,1016,1219200
+231,C:/Users/yahel/Downloads/Categories/dining/silverware/knife/stillife (1).jpg,826,930,768180
+232,C:/Users/yahel/Downloads/Categories/dining/silverware/knife/stillife.jpg,1200,812,974400
+233,C:/Users/yahel/Downloads/Categories/dining/silverware/knife/stil_lif.jpg,1000,662,662000
+234,C:/Users/yahel/Downloads/Categories/dining/silverware/knife/stil_oys.jpg,1400,881,1233400
+235,C:/Users/yahel/Downloads/Categories/dining/silverware/knife/sti_life.jpg,1100,777,854700
+236,C:/Users/yahel/Downloads/Categories/dining/silverware/knife/tahiti03.jpg,1300,1013,1316900
+237,C:/Users/yahel/Downloads/Categories/dining/silverware/spoon/beaneate.jpg,1011,850,859350
+238,C:/Users/yahel/Downloads/Categories/dining/silverware/spoon/CUR1645.jpg,1200,544,652800
+239,C:/Users/yahel/Downloads/Categories/dining/silverware/spoon/D-BWP550.jpg,963,1200,1155600
+240,C:/Users/yahel/Downloads/Categories/dining/silverware/spoon/D-BWP697.jpg,1090,1200,1308000
+241,C:/Users/yahel/Downloads/Categories/dining/silverware/spoon/D-BWP818.jpg,1200,695,834000
+242,C:/Users/yahel/Downloads/Categories/dining/silverware/spoon/D-BWP821.jpg,912,1200,1094400
+243,C:/Users/yahel/Downloads/Categories/dining/silverware/spoon/DP11883.jpg,1200,346,415200
+244,C:/Users/yahel/Downloads/Categories/dining/silverware/spoon/DP11887.jpg,1200,354,424800
+245,C:/Users/yahel/Downloads/Categories/dining/silverware/spoon/milksoup.jpg,800,992,793600
+246,C:/Users/yahel/Downloads/Categories/dining/silverware/spoon/scrubbin.jpg,1246,985,1227310
+247,C:/Users/yahel/Downloads/Categories/dining/silverware/spoon/stillif9.jpg,1054,800,843200
+248,C:/Users/yahel/Downloads/Categories/dining/silverware/spoon/u_school.jpg,1019,1400,1426600
+249,C:/Users/yahel/Downloads/Categories/dining/tableware/bowl/cer_bowl.jpg,1200,831,997200
+250,C:/Users/yahel/Downloads/Categories/dining/tableware/bowl/cherries.jpg,1361,1000,1361000
+251,C:/Users/yahel/Downloads/Categories/dining/tableware/bowl/chinabow.jpg,1197,850,1017450
+252,C:/Users/yahel/Downloads/Categories/dining/tableware/bowl/fruit.jpg,972,700,680400
+253,C:/Users/yahel/Downloads/Categories/dining/tableware/bowl/stilfrui.jpg,963,680,654840
+254,C:/Users/yahel/Downloads/Categories/dining/tableware/bowl/stillif3.jpg,1236,800,988800
+255,C:/Users/yahel/Downloads/Categories/dining/tableware/bowl/stillife (1).jpg,1389,1100,1527900
+256,C:/Users/yahel/Downloads/Categories/dining/tableware/bowl/stillife.jpg,1100,808,888800
+257,C:/Users/yahel/Downloads/Categories/dining/tableware/bowl/stillix.jpg,1215,912,1108080
+258,C:/Users/yahel/Downloads/Categories/dining/tableware/bowl/still_li.jpg,1799,1000,1799000
+259,C:/Users/yahel/Downloads/Categories/dining/tableware/candlestick/02d_1600.jpg,1153,850,980050
+260,C:/Users/yahel/Downloads/Categories/dining/tableware/candlestick/02g_1700.jpg,838,950,796100
+261,C:/Users/yahel/Downloads/Categories/dining/tableware/candlestick/candle.jpg,1004,703,705812
+262,C:/Users/yahel/Downloads/Categories/dining/tableware/candlestick/candleli.jpg,1400,1100,1540000
+263,C:/Users/yahel/Downloads/Categories/dining/tableware/candlestick/candlest.jpg,673,1000,673000
+264,C:/Users/yahel/Downloads/Categories/dining/tableware/candlestick/candlest12.jpg,850,1253,1065050
+265,C:/Users/yahel/Downloads/Categories/dining/tableware/candlestick/oldcandl.jpg,742,1005,745710
+266,C:/Users/yahel/Downloads/Categories/dining/tableware/candlestick/oldwoman (1).jpg,1027,1255,1288885
+267,C:/Users/yahel/Downloads/Categories/dining/tableware/candlestick/selfport.jpg,1165,850,990250
+268,C:/Users/yahel/Downloads/Categories/dining/tableware/candlestick/stillif3.jpg,1300,995,1293500
+269,C:/Users/yahel/Downloads/Categories/dining/tableware/cup/08sevres.jpg,1221,800,976800
+270,C:/Users/yahel/Downloads/Categories/dining/tableware/cup/08sevres21.jpg,1085,1459,1583015
+271,C:/Users/yahel/Downloads/Categories/dining/tableware/cup/12silver.jpg,1023,800,818400
+272,C:/Users/yahel/Downloads/Categories/dining/tableware/cup/205david.jpg,1539,1000,1539000
+273,C:/Users/yahel/Downloads/Categories/dining/tableware/cup/gentlema.jpg,720,900,648000
+274,C:/Users/yahel/Downloads/Categories/dining/tableware/cup/girl_can.jpg,800,968,774400
+275,C:/Users/yahel/Downloads/Categories/dining/tableware/cup/sophonis.jpg,669,950,635550
+276,C:/Users/yahel/Downloads/Categories/dining/tableware/cup/stillif3 (1).jpg,1300,995,1293500
+277,C:/Users/yahel/Downloads/Categories/dining/tableware/cup/stil_lif.jpg,1030,732,753960
+278,C:/Users/yahel/Downloads/Categories/dining/tableware/cup/thoma1.jpg,1100,1474,1621400
+279,C:/Users/yahel/Downloads/Categories/dining/tableware/dish/1965.85.2b_SmallDishForFruitBasket.jpg,1200,769,922800
+280,C:/Users/yahel/Downloads/Categories/dining/tableware/dish/1965.89.4.jpg,1200,1155,1386000
+281,C:/Users/yahel/Downloads/Categories/dining/tableware/dish/1d_03dis.jpg,1010,1000,1010000
+282,C:/Users/yahel/Downloads/Categories/dining/tableware/dish/2008.47.jpg,800,549,439200
+283,C:/Users/yahel/Downloads/Categories/dining/tableware/dish/2010.34.jpg,1200,1200,1440000
+284,C:/Users/yahel/Downloads/Categories/dining/tableware/dish/2011.282.jpg,1200,609,730800
+285,C:/Users/yahel/Downloads/Categories/dining/tableware/dish/D-BWP697.jpg,1090,1200,1308000
+286,C:/Users/yahel/Downloads/Categories/dining/tableware/dish/dish (1).jpg,904,900,813600
+287,C:/Users/yahel/Downloads/Categories/dining/tableware/dish/dish.jpg,1107,1100,1217700
+288,C:/Users/yahel/Downloads/Categories/dining/tableware/dish/DP9449.jpg,1200,1200,1440000
+289,C:/Users/yahel/Downloads/Categories/material/rock/098ecsta (1).jpg,1034,900,930600
+290,C:/Users/yahel/Downloads/Categories/nature/clouds/27cows.jpg,1434,1100,1577400
+291,C:/Users/yahel/Downloads/Categories/nature/clouds/2sposi12.jpg,750,1400,1050000
+292,C:/Users/yahel/Downloads/Categories/nature/clouds/cows (1).jpg,1417,1100,1558700
+293,C:/Users/yahel/Downloads/Categories/nature/clouds/cowsheep.jpg,1013,1300,1316900
+294,C:/Users/yahel/Downloads/Categories/nature/clouds/l_evenin.jpg,967,700,676900
+295,C:/Users/yahel/Downloads/Categories/nature/flower/05arella.jpg,803,1200,963600
+296,C:/Users/yahel/Downloads/Categories/nature/flower/07arella.jpg,1134,900,1020600
+297,C:/Users/yahel/Downloads/Categories/nature/flower/1231.jpg,1169,1500,1753500
+298,C:/Users/yahel/Downloads/Categories/nature/flower/bouquet.jpg,1060,1500,1590000
+299,C:/Users/yahel/Downloads/Categories/nature/flower/holyfami.jpg,758,1003,760274
+300,C:/Users/yahel/Downloads/Categories/nature/flower/specimen (1).jpg,731,1034,755854
+301,C:/Users/yahel/Downloads/Categories/nature/flower/stilflow.jpg,814,1100,895400
+302,C:/Users/yahel/Downloads/Categories/nature/flower/stillif2 (1).jpg,606,1400,848400
+303,C:/Users/yahel/Downloads/Categories/nature/flower/stillife (1).jpg,700,877,613900
+304,C:/Users/yahel/Downloads/Categories/nature/flower/stillife.jpg,2004,700,1402800
+305,C:/Users/yahel/Downloads/Categories/nature/flower/vasewatc (1).jpg,900,1090,981000
+306,C:/Users/yahel/Downloads/Categories/nature/flower/vasewatc.jpg,900,1090,981000
+307,C:/Users/yahel/Downloads/Categories/nature/flower/view_dog (1).jpg,1162,800,929600
+308,C:/Users/yahel/Downloads/Categories/nature/landscape/painting.jpg,1325,850,1126250
+309,C:/Users/yahel/Downloads/Categories/nature/leaf/dwarf.jpg,700,930,651000
+310,C:/Users/yahel/Downloads/Categories/nature/leaf/stilewer.jpg,1400,834,1167600
+311,C:/Users/yahel/Downloads/Categories/nature/mountain/deluge.jpg,1388,900,1249200
+312,C:/Users/yahel/Downloads/Categories/nature/mountain/extensi2.jpg,1350,1095,1478250
+313,C:/Users/yahel/Downloads/Categories/nature/mountain/landsca2.jpg,1628,1000,1628000
+314,C:/Users/yahel/Downloads/Categories/nature/mountain/landtrav.jpg,1300,712,925600
+315,C:/Users/yahel/Downloads/Categories/nature/mountain/largemox.jpg,1158,1400,1621200
+316,C:/Users/yahel/Downloads/Categories/nature/mountain/mountain (1).jpg,1199,800,959200
+317,C:/Users/yahel/Downloads/Categories/nature/mountain/mountain (2).jpg,1010,731,738310
+318,C:/Users/yahel/Downloads/Categories/nature/mountain/mountain.jpg,1215,907,1102005
+319,C:/Users/yahel/Downloads/Categories/nature/mountain/mount_la.jpg,1200,651,781200
+320,C:/Users/yahel/Downloads/Categories/nature/mountain/riverban.jpg,839,610,511790
+321,C:/Users/yahel/Downloads/Categories/nature/mountain/riversca.jpg,800,1162,929600
+322,C:/Users/yahel/Downloads/Categories/nature/ocean/calmseas.jpg,1050,1300,1365000
+323,C:/Users/yahel/Downloads/Categories/nature/snow/01guilla.jpg,1142,1400,1598800
+324,C:/Users/yahel/Downloads/Categories/nature/snow/02januar.jpg,967,1200,1160400
+325,C:/Users/yahel/Downloads/Categories/nature/snow/07roof.jpg,1400,1102,1542800
+326,C:/Users/yahel/Downloads/Categories/nature/snow/11hausma.jpg,1372,1100,1509200
+327,C:/Users/yahel/Downloads/Categories/nature/snow/207goya.jpg,1070,960,1027200
+328,C:/Users/yahel/Downloads/Categories/nature/snow/404fried.jpg,809,1008,815472
+329,C:/Users/yahel/Downloads/Categories/nature/snow/boulevar.jpg,1400,1080,1512000
+330,C:/Users/yahel/Downloads/Categories/nature/snow/paris2.jpg,800,477,381600
+331,C:/Users/yahel/Downloads/Categories/nature/snow/parisnow.jpg,1049,1300,1363700
+332,C:/Users/yahel/Downloads/Categories/nature/snow/snowy.jpg,1000,796,796000
+333,C:/Users/yahel/Downloads/Categories/nature/sunset/02jacob.jpg,1478,1100,1625800
+334,C:/Users/yahel/Downloads/Categories/nature/sunset/03guilla.jpg,1031,800,824800
+335,C:/Users/yahel/Downloads/Categories/nature/sunset/11harbor.jpg,1115,874,974510
+336,C:/Users/yahel/Downloads/Categories/nature/sunset/208fried.jpg,800,1038,830400
+337,C:/Users/yahel/Downloads/Categories/nature/sunset/2vario10.jpg,1355,1000,1355000
+338,C:/Users/yahel/Downloads/Categories/nature/sunset/410fried.jpg,1030,731,752930
+339,C:/Users/yahel/Downloads/Categories/nature/sunset/9th_wave.jpg,1300,858,1115400
+340,C:/Users/yahel/Downloads/Categories/nature/sunset/bentley2.jpg,1180,800,944000
+341,C:/Users/yahel/Downloads/Categories/nature/sunset/coastal2.jpg,1200,807,968400
+342,C:/Users/yahel/Downloads/Categories/nature/sunset/mountlan.jpg,1400,1181,1653400
+343,C:/Users/yahel/Downloads/Categories/nature/sunset/pontine.jpg,1341,750,1005750
+344,C:/Users/yahel/Downloads/Categories/nature/sunset/pyramids.jpg,1400,961,1345400
+345,C:/Users/yahel/Downloads/Categories/nature/sunset/sunset.jpg,1029,770,792330
+346,C:/Users/yahel/Downloads/Categories/nature/tree/05europa (1).jpg,1147,850,974950
+347,C:/Users/yahel/Downloads/Categories/nature/tree/09csont (1).jpg,1855,900,1669500
+348,C:/Users/yahel/Downloads/Categories/nature/tree/15trees.jpg,708,1000,708000
+349,C:/Users/yahel/Downloads/Categories/nature/tree/1lands07.jpg,1116,900,1004400
+350,C:/Users/yahel/Downloads/Categories/nature/tree/2jerome.jpg,1347,900,1212300
+351,C:/Users/yahel/Downloads/Categories/nature/tree/2visita.jpg,1223,800,978400
+352,C:/Users/yahel/Downloads/Categories/nature/tree/haarlemm.jpg,1500,1190,1785000
+353,C:/Users/yahel/Downloads/Categories/nature/tree/l_evenix (1).jpg,1500,1098,1647000
+354,C:/Users/yahel/Downloads/Categories/nature/tree/orpheus.jpg,1300,875,1137500
+355,C:/Users/yahel/Downloads/Categories/nature/tree/treebank.jpg,775,1200,930000
+356,C:/Users/yahel/Downloads/Categories/nature/tree/trunk.jpg,623,899,560077
+357,C:/Users/yahel/Downloads/Categories/nature/tree/ztree.jpg,747,1100,821700
+358,C:/Users/yahel/Downloads/Categories/nature/waves/102turne.jpg,1065,768,817920
+359,C:/Users/yahel/Downloads/Categories/nature/waves/22other (1).jpg,1068,770,822360
+360,C:/Users/yahel/Downloads/Categories/nature/waves/7marine1.jpg,1304,1400,1825600
+361,C:/Users/yahel/Downloads/Categories/nature/waves/9th_wave.jpg,1300,858,1115400
+362,C:/Users/yahel/Downloads/Categories/nature/waves/courb410.jpg,1305,900,1174500
+363,C:/Users/yahel/Downloads/Categories/nature/waves/marine1.jpg,1408,1000,1408000
+364,C:/Users/yahel/Downloads/Categories/nature/waves/northeas.jpg,1477,1000,1477000
+365,C:/Users/yahel/Downloads/Categories/nature/waves/ragstorm.jpg,1524,1000,1524000
+366,C:/Users/yahel/Downloads/Categories/nature/waves/stormy_s.jpg,1457,1000,1457000
+367,C:/Users/yahel/Downloads/Categories/nature/waves/zbathing.jpg,1200,952,1142400
+368,C:/Users/yahel/Downloads/Categories/other/book/02flower.jpg,896,557,499072
+369,C:/Users/yahel/Downloads/Categories/other/book/13john3.jpg,616,1240,763840
+370,C:/Users/yahel/Downloads/Categories/other/book/2libro.jpg,750,1109,831750
+371,C:/Users/yahel/Downloads/Categories/other/book/3latin.jpg,900,1072,964800
+372,C:/Users/yahel/Downloads/Categories/other/book/catherin.jpg,975,750,731250
+373,C:/Users/yahel/Downloads/Categories/other/book/old_man.jpg,775,1020,790500
+374,C:/Users/yahel/Downloads/Categories/other/book/philosop.jpg,765,900,688500
+375,C:/Users/yahel/Downloads/Categories/other/book/port_lad.jpg,1000,1212,1212000
+376,C:/Users/yahel/Downloads/Categories/other/book/reading.jpg,900,1247,1122300
+377,C:/Users/yahel/Downloads/Categories/other/book/vanitas9.jpg,760,897,681720
+378,C:/Users/yahel/Downloads/Categories/other/book/vazquez1.jpg,559,750,419250
+379,C:/Users/yahel/Downloads/Categories/other/fire/02wfleas.jpg,750,1020,765000
+380,C:/Users/yahel/Downloads/Categories/other/fire/09magdal.jpg,900,1226,1103400
+381,C:/Users/yahel/Downloads/Categories/other/fire/3testfi.jpg,1135,850,964750
+382,C:/Users/yahel/Downloads/Categories/other/fire/5fire.jpg,959,759,727881
+383,C:/Users/yahel/Downloads/Categories/other/fire/candleli (1).jpg,1400,1100,1540000
+384,C:/Users/yahel/Downloads/Categories/other/fire/candllit.jpg,973,830,807590
+385,C:/Users/yahel/Downloads/Categories/other/fire/girl_can (1).jpg,800,968,774400
+386,C:/Users/yahel/Downloads/Categories/other/fire/oldcandl (1).jpg,742,1005,745710
+387,C:/Users/yahel/Downloads/Categories/other/fire/oldwoman.jpg,1027,1255,1288885
+388,C:/Users/yahel/Downloads/Categories/other/fire/peasants.jpg,1528,1000,1528000
+389,C:/Users/yahel/Downloads/Categories/other/hand/03hands.jpg,750,862,646500
+390,C:/Users/yahel/Downloads/Categories/other/hand/05prayin.jpg,710,1039,737690
+391,C:/Users/yahel/Downloads/Categories/other/hand/0703grec.jpg,932,1200,1118400
+392,C:/Users/yahel/Downloads/Categories/other/hand/07hands.jpg,730,1042,760660
+393,C:/Users/yahel/Downloads/Categories/other/hand/106gerid.jpg,1107,900,996300
+394,C:/Users/yahel/Downloads/Categories/other/hand/30study.jpg,608,826,502208
+395,C:/Users/yahel/Downloads/Categories/other/hand/4nuene03.jpg,627,850,532950
+396,C:/Users/yahel/Downloads/Categories/other/hand/apostle1.jpg,959,1183,1134497
+397,C:/Users/yahel/Downloads/Categories/other/hand/hands.jpg,792,980,776160
+398,C:/Users/yahel/Downloads/Categories/other/hand/pilate.jpg,1099,770,846230
+399,C:/Users/yahel/Downloads/Categories/other/hand/washing1.jpg,1180,1239,1462020
+400,C:/Users/yahel/Downloads/Categories/other/hat/10hallet (1).jpg,1000,1325,1325000
+401,C:/Users/yahel/Downloads/Categories/other/hat/1venus10.jpg,603,1345,811035
+402,C:/Users/yahel/Downloads/Categories/other/hat/2figure4.jpg,1000,1239,1239000
+403,C:/Users/yahel/Downloads/Categories/other/hat/2hague07.jpg,750,1327,995250
+404,C:/Users/yahel/Downloads/Categories/other/hat/2sposi12 (1).jpg,750,1400,1050000
+405,C:/Users/yahel/Downloads/Categories/other/hat/corint08.jpg,1008,1500,1512000
+406,C:/Users/yahel/Downloads/Categories/other/hat/corint14.jpg,1363,1100,1499300
+407,C:/Users/yahel/Downloads/Categories/other/hat/girlyell.jpg,1000,1280,1280000
+408,C:/Users/yahel/Downloads/Categories/other/hat/selfpo05.jpg,1000,1219,1219000
+409,C:/Users/yahel/Downloads/Categories/other/hat/waiting.jpg,1000,1422,1422000
+410,C:/Users/yahel/Downloads/Categories/other/quill/17portra.jpg,900,1123,1010700
+411,C:/Users/yahel/Downloads/Categories/other/quill/23portra.jpg,1536,873,1340928
+412,C:/Users/yahel/Downloads/Categories/other/quill/30magnif.jpg,1150,1140,1311000
+413,C:/Users/yahel/Downloads/Categories/other/quill/31magnif.jpg,700,1173,821100
+414,C:/Users/yahel/Downloads/Categories/other/quill/corneill.jpg,708,1030,729240
+415,C:/Users/yahel/Downloads/Categories/other/quill/p_friar.jpg,1000,1305,1305000
+416,C:/Users/yahel/Downloads/Categories/other/quill/scholar.jpg,1188,1500,1782000
+417,C:/Users/yahel/Downloads/Categories/other/quill/stillife.jpg,938,1196,1121848
+418,C:/Users/yahel/Downloads/Categories/other/quill/vanitas0.jpg,1371,900,1233900
+419,C:/Users/yahel/Downloads/Categories/other/quill/vanitas3.jpg,700,901,630700
+420,C:/Users/yahel/Downloads/Categories/other/skull/02portma.jpg,821,1070,878470
+421,C:/Users/yahel/Downloads/Categories/other/skull/8jerome.jpg,807,1016,819912
+422,C:/Users/yahel/Downloads/Categories/other/skull/arcadia.jpg,1031,867,893877
+423,C:/Users/yahel/Downloads/Categories/other/skull/jerome.jpg,1000,1247,1247000
+424,C:/Users/yahel/Downloads/Categories/other/skull/melanchx.jpg,1000,1500,1500000
+425,C:/Users/yahel/Downloads/Categories/other/skull/pom_occo.jpg,850,1022,868700
+426,C:/Users/yahel/Downloads/Categories/other/skull/portra2.jpg,900,1147,1032300
+427,C:/Users/yahel/Downloads/Categories/other/skull/sfrancis.jpg,678,850,576300
+428,C:/Users/yahel/Downloads/Categories/other/skull/vanitas (1).jpg,1102,800,881600
+429,C:/Users/yahel/Downloads/Categories/other/skull/vanitas.jpg,1055,1600,1688000
+430,C:/Users/yahel/Downloads/Categories/other/wheel/nuenen02.jpg,1700,1237,2102900
+431,C:/Users/yahel/Downloads/Categories/people/accessories/wig/10hallet.jpg,1000,1325,1325000
+432,C:/Users/yahel/Downloads/Categories/people/accessories/wig/gent_wig.jpg,712,1200,854400
+433,C:/Users/yahel/Downloads/Categories/people/accessories/wig/selfport.jpg,1100,1414,1555400
+434,C:/Users/yahel/Downloads/Categories/people/accessories/wig/willem3.jpg,1000,1246,1246000
+435,C:/Users/yahel/Downloads/Categories/people/children/12marsha.jpg,1000,1349,1349000
+436,C:/Users/yahel/Downloads/Categories/people/children/1family.jpg,1000,1258,1258000
+437,C:/Users/yahel/Downloads/Categories/people/children/52caroli.jpg,700,900,630000
+438,C:/Users/yahel/Downloads/Categories/people/children/arthaber.jpg,870,1243,1081410
+439,C:/Users/yahel/Downloads/Categories/people/children/children (1).jpg,1126,1410,1587660
+440,C:/Users/yahel/Downloads/Categories/people/children/children (2).jpg,749,900,674100
+441,C:/Users/yahel/Downloads/Categories/people/children/children (3).jpg,1200,901,1081200
+442,C:/Users/yahel/Downloads/Categories/people/children/children (4).jpg,1000,1300,1300000
+443,C:/Users/yahel/Downloads/Categories/people/children/children (5).jpg,1364,1100,1500400
+444,C:/Users/yahel/Downloads/Categories/people/children/children (6).jpg,1100,907,997700
+445,C:/Users/yahel/Downloads/Categories/people/children/children.jpg,1126,1411,1588786
+446,C:/Users/yahel/Downloads/Categories/people/clothes/dress/01pink.jpg,741,1020,755820
+447,C:/Users/yahel/Downloads/Categories/people/clothes/dress/alaide.jpg,824,1600,1318400
+448,C:/Users/yahel/Downloads/Categories/people/clothes/dress/corot160.jpg,800,1205,964000
+449,C:/Users/yahel/Downloads/Categories/people/clothes/dress/corot21.jpg,800,1086,868800
+450,C:/Users/yahel/Downloads/Categories/people/clothes/dress/early13.jpg,1011,1600,1617600
+451,C:/Users/yahel/Downloads/Categories/people/clothes/dress/fashion.jpg,723,1000,723000
+452,C:/Users/yahel/Downloads/Categories/people/clothes/dress/lady_red.jpg,782,1199,937618
+453,C:/Users/yahel/Downloads/Categories/people/clothes/dress/margarit.jpg,628,900,565200
+454,C:/Users/yahel/Downloads/Categories/people/clothes/dress/masquera.jpg,1146,1500,1719000
+455,C:/Users/yahel/Downloads/Categories/people/clothes/dress/portlady.jpg,690,830,572700
+456,C:/Users/yahel/Downloads/Categories/people/clothes/dress/portladz.jpg,1102,1420,1564840
+457,C:/Users/yahel/Downloads/Categories/people/clothes/dress/vestal_v.jpg,822,1050,863100
+458,C:/Users/yahel/Downloads/Categories/pottery/vases/10vase.jpg,1000,1241,1241000
+459,C:/Users/yahel/Downloads/Categories/pottery/vases/chinese.jpg,850,1188,1009800
+460,C:/Users/yahel/Downloads/Categories/pottery/vases/CUR1367.jpg,711,1200,853200
+461,C:/Users/yahel/Downloads/Categories/pottery/vases/DP4194.jpg,809,1200,970800
+462,C:/Users/yahel/Downloads/Categories/pottery/vases/DP4206.jpg,724,1200,868800
+463,C:/Users/yahel/Downloads/Categories/pottery/vases/DP4219.jpg,634,1200,760800
+464,C:/Users/yahel/Downloads/Categories/pottery/vases/DP667.jpg,1200,1200,1440000
+465,C:/Users/yahel/Downloads/Categories/pottery/vases/vase(1).jpg,697,1100,766700
+466,C:/Users/yahel/Downloads/Categories/pottery/vases/vase.jpg,600,926,555600
+467,C:/Users/yahel/Downloads/Categories/pottery/vases/vase1.jpg,1000,1272,1272000
+468,C:/Users/yahel/Downloads/Categories/religious/angel/04nunzia.jpg,1058,1300,1375400
+469,C:/Users/yahel/Downloads/Categories/religious/angel/157mira.jpg,1066,1086,1157676
+470,C:/Users/yahel/Downloads/Categories/religious/angel/2scenes.jpg,1014,1400,1419600
+471,C:/Users/yahel/Downloads/Categories/religious/angel/agony.jpg,800,1026,820800
+472,C:/Users/yahel/Downloads/Categories/religious/angel/allegory.jpg,650,922,599300
+473,C:/Users/yahel/Downloads/Categories/religious/angel/annuncia.jpg,1012,950,961400
+474,C:/Users/yahel/Downloads/Categories/religious/angel/balaam (1).jpg,1511,1000,1511000
+475,C:/Users/yahel/Downloads/Categories/religious/angel/bernard.jpg,1065,1027,1093755
+476,C:/Users/yahel/Downloads/Categories/religious/angel/holyfami (1).jpg,604,846,510984
+477,C:/Users/yahel/Downloads/Categories/religious/angel/tobias (1).jpg,1000,1318,1318000
+478,C:/Users/yahel/Downloads/Categories/religious/angel/tobias.jpg,1010,589,594890
+479,C:/Users/yahel/Downloads/Categories/religious/baby/06tondo.jpg,1323,1300,1719900
+480,C:/Users/yahel/Downloads/Categories/religious/baby/07virgin.jpg,822,1111,913242
+481,C:/Users/yahel/Downloads/Categories/religious/baby/1pear.jpg,801,1044,836244
+482,C:/Users/yahel/Downloads/Categories/religious/baby/4naming1.jpg,871,860,749060
+483,C:/Users/yahel/Downloads/Categories/religious/baby/95magi.jpg,1297,1000,1297000
+484,C:/Users/yahel/Downloads/Categories/religious/baby/adoratio.jpg,801,1013,811413
+485,C:/Users/yahel/Downloads/Categories/religious/baby/adormag (1).jpg,1200,1277,1532400
+486,C:/Users/yahel/Downloads/Categories/religious/baby/christ_c.jpg,706,1056,745536
+487,C:/Users/yahel/Downloads/Categories/religious/baby/finding.jpg,935,750,701250
+488,C:/Users/yahel/Downloads/Categories/religious/baby/shepher.jpg,1071,1059,1134189
+489,C:/Users/yahel/Downloads/Categories/religious/basket/302muril.jpg,655,916,599980
+490,C:/Users/yahel/Downloads/Categories/religious/basket/basket.jpg,1197,853,1021041
+491,C:/Users/yahel/Downloads/Categories/religious/basket/boybread.jpg,1030,750,772500
+492,C:/Users/yahel/Downloads/Categories/religious/basket/cherries.jpg,1092,770,840840
+493,C:/Users/yahel/Downloads/Categories/religious/basket/flowers.jpg,800,1079,863200
+494,C:/Users/yahel/Downloads/Categories/religious/basket/grapes.jpg,868,693,601524
+495,C:/Users/yahel/Downloads/Categories/religious/basket/shepher (1).jpg,1071,1059,1134189
+496,C:/Users/yahel/Downloads/Categories/religious/basket/stilbask.jpg,1306,1000,1306000
+497,C:/Users/yahel/Downloads/Categories/religious/basket/still-li.jpg,900,732,658800
+498,C:/Users/yahel/Downloads/Categories/religious/basket/stillife.jpg,1366,1000,1366000
+499,C:/Users/yahel/Downloads/Categories/religious/crown/03laure1.jpg,900,1187,1068300
+500,C:/Users/yahel/Downloads/Categories/religious/crown/06b_1000.jpg,705,1000,705000
+501,C:/Users/yahel/Downloads/Categories/religious/crown/3giacom2.jpg,1200,1013,1215600
+502,C:/Users/yahel/Downloads/Categories/religious/crown/406david.jpg,800,1156,924800
+503,C:/Users/yahel/Downloads/Categories/religious/crown/5allego3.jpg,1290,900,1161000
+504,C:/Users/yahel/Downloads/Categories/religious/crown/catherin.jpg,1182,1500,1773000
+505,C:/Users/yahel/Downloads/Categories/religious/crown/chris02.jpg,1196,1200,1435200
+506,C:/Users/yahel/Downloads/Categories/religious/crown/portrai2.jpg,676,850,574600
+507,C:/Users/yahel/Downloads/Categories/religious/crown/roxana.jpg,734,894,656196
+508,C:/Users/yahel/Downloads/Categories/religious/crown/vanitas.jpg,770,1063,818510
+509,C:/Users/yahel/Downloads/Categories/religious/halo/adormag.jpg,1200,1277,1532400
+510,C:/Users/yahel/Downloads/Categories/religious/halo/adormagp (1).jpg,1700,569,967300
+511,C:/Users/yahel/Downloads/Categories/religious/Jesus/05sorrow.jpg,750,1188,891000
+512,C:/Users/yahel/Downloads/Categories/religious/Jesus/0fiesol1.jpg,700,1200,840000
+513,C:/Users/yahel/Downloads/Categories/religious/Jesus/10lastsu.jpg,909,1075,977175
+514,C:/Users/yahel/Downloads/Categories/religious/Jesus/1701gred.jpg,819,1001,819819
+515,C:/Users/yahel/Downloads/Categories/religious/Jesus/1trinitz.jpg,835,1020,851700
+516,C:/Users/yahel/Downloads/Categories/religious/Jesus/2scenes.jpg,1014,1400,1419600
+517,C:/Users/yahel/Downloads/Categories/religious/Jesus/3entombm.jpg,794,940,746360
+518,C:/Users/yahel/Downloads/Categories/religious/Jesus/45religi.jpg,1000,1346,1346000
+519,C:/Users/yahel/Downloads/Categories/religious/Jesus/callsons.jpg,900,1318,1186200
+520,C:/Users/yahel/Downloads/Categories/religious/Jesus/crucifix.jpg,720,1029,740880
+521,C:/Users/yahel/Downloads/Categories/religious/Jesus/jesusapp.jpg,800,1283,1026400
+522,C:/Users/yahel/Downloads/Categories/religious/Jesus/miracle.jpg,996,522,519912
+523,C:/Users/yahel/Downloads/Categories/religious/Jesus/samarita.jpg,1061,800,848800
+524,C:/Users/yahel/Downloads/Categories/religious/Jesus/scenes.jpg,950,1058,1005100
+525,C:/Users/yahel/Downloads/Categories/religious/Jesus/st_john2.jpg,890,870,774300
+526,C:/Users/yahel/Downloads/Categories/religious/Jesus/st_peter.jpg,579,900,521100
+527,C:/Users/yahel/Downloads/Categories/religious/Jesus/triptych.jpg,936,700,655200
+528,C:/Users/yahel/Downloads/Categories/religious/wings/04nunzia (1).jpg,1058,1300,1375400
+529,C:/Users/yahel/Downloads/Categories/religious/wings/2scenes (1).jpg,1014,1400,1419600
+530,C:/Users/yahel/Downloads/Categories/religious/wings/agony (1).jpg,800,1026,820800
+531,C:/Users/yahel/Downloads/Categories/religious/wings/allegory (1).jpg,650,922,599300
+532,C:/Users/yahel/Downloads/Categories/religious/wings/balaam.jpg,1511,1000,1511000
+533,C:/Users/yahel/Downloads/Categories/religious/wings/holyfami.jpg,604,846,510984
+534,C:/Users/yahel/Downloads/Categories/religious/wings/p_carta1 (1).jpg,902,1095,987690
+535,C:/Users/yahel/Downloads/Categories/religious/wings/st-john.jpg,750,1467,1100250
+536,C:/Users/yahel/Downloads/Categories/religious/wings/tobias (1).jpg,1010,589,594890
+537,C:/Users/yahel/Downloads/Categories/religious/wings/tobias (2).jpg,1025,886,908150
+538,C:/Users/yahel/Downloads/Categories/sculpture/marble/1reparat.jpg,650,1237,804050
+539,C:/Users/yahel/Downloads/Categories/sculpture/marble/alcestiy.jpg,730,1000,730000
+540,C:/Users/yahel/Downloads/Categories/sculpture/marble/beheadin.jpg,850,1090,926500
+541,C:/Users/yahel/Downloads/Categories/sculpture/marble/cerri.jpg,808,1041,841128
+542,C:/Users/yahel/Downloads/Categories/sculpture/marble/neptune1 (1).jpg,970,784,760480
+543,C:/Users/yahel/Downloads/Categories/sculpture/marble/neptune1.jpg,801,1213,971613
+544,C:/Users/yahel/Downloads/Categories/sculpture/marble/olimpia.jpg,722,941,679402
+545,C:/Users/yahel/Downloads/Categories/sculpture/marble/pereire.jpg,854,1080,922320
+546,C:/Users/yahel/Downloads/Categories/sculpture/marble/pontano2.jpg,903,1300,1173900
+547,C:/Users/yahel/Downloads/Categories/sculpture/marble/promethe.jpg,809,950,768550
+548,C:/Users/yahel/Downloads/Categories/structures/bridge/09csont.jpg,1855,900,1669500
+549,C:/Users/yahel/Downloads/Categories/structures/bridge/17bridge.jpg,1400,1109,1552600
+550,C:/Users/yahel/Downloads/Categories/structures/bridge/augustan.jpg,1200,856,1027200
+551,C:/Users/yahel/Downloads/Categories/structures/bridge/bello202.jpg,1247,708,882876
+552,C:/Users/yahel/Downloads/Categories/structures/bridge/canal217.jpg,1024,771,789504
+553,C:/Users/yahel/Downloads/Categories/structures/bridge/canal617.jpg,1096,770,843920
+554,C:/Users/yahel/Downloads/Categories/structures/bridge/italiana.jpg,980,780,764400
+555,C:/Users/yahel/Downloads/Categories/structures/bridge/italianl.jpg,1010,739,746390
+556,C:/Users/yahel/Downloads/Categories/structures/bridge/landsca3.jpg,1300,872,1133600
+557,C:/Users/yahel/Downloads/Categories/structures/bridge/miracl2.jpg,1407,1000,1407000
+558,C:/Users/yahel/Downloads/Categories/structures/bridge/rome.jpg,1423,900,1280700
+559,C:/Users/yahel/Downloads/Categories/structures/house/17bridge.jpg,1400,1109,1552600
+560,C:/Users/yahel/Downloads/Categories/structures/house/30hooch.jpg,879,1000,879000
+561,C:/Users/yahel/Downloads/Categories/structures/house/augustan.jpg,1200,856,1027200
+562,C:/Users/yahel/Downloads/Categories/structures/house/bello202.jpg,1247,708,882876
+563,C:/Users/yahel/Downloads/Categories/structures/house/canal217.jpg,1024,771,789504
+564,C:/Users/yahel/Downloads/Categories/structures/house/canal617.jpg,1096,770,843920
+565,C:/Users/yahel/Downloads/Categories/structures/house/corner (1).jpg,1400,950,1330000
+566,C:/Users/yahel/Downloads/Categories/structures/house/italiana.jpg,980,780,764400
+567,C:/Users/yahel/Downloads/Categories/structures/house/italianl.jpg,1010,739,746390
+568,C:/Users/yahel/Downloads/Categories/structures/house/landsca3.jpg,1300,872,1133600
+569,C:/Users/yahel/Downloads/Categories/structures/house/miracl2.jpg,1407,1000,1407000
+570,C:/Users/yahel/Downloads/Categories/structures/house/rome.jpg,1423,900,1280700
+571,C:/Users/yahel/Downloads/Categories/structures/house/waterfal.jpg,1311,900,1179900
+572,C:/Users/yahel/Downloads/Categories/structures/windmill/07dordre.jpg,1341,1100,1475100
+573,C:/Users/yahel/Downloads/Categories/structures/windmill/7meszoly.jpg,1055,650,685750
+574,C:/Users/yahel/Downloads/Categories/structures/windmill/landscap.jpg,1255,939,1178445
+575,C:/Users/yahel/Downloads/Categories/structures/windmill/riverlan.jpg,1100,854,939400
+576,C:/Users/yahel/Downloads/Categories/structures/windmill/view2.jpg,1187,998,1184626
+577,C:/Users/yahel/Downloads/Categories/structures/windmill/windmill (1).jpg,842,693,583506
+578,C:/Users/yahel/Downloads/Categories/structures/windmill/windmill (2).jpg,1251,741,926991
+579,C:/Users/yahel/Downloads/Categories/structures/windmill/windmill (3).jpg,1302,1000,1302000
+580,C:/Users/yahel/Downloads/Categories/structures/windmill/windmill.jpg,1020,687,700740
+581,C:/Users/yahel/Downloads/Categories/structures/windmill/windmiln.jpg,893,951,849243
+582,C:/Users/yahel/Downloads/Categories/vehicles/ships/05europa.jpg,1147,850,974950
+583,C:/Users/yahel/Downloads/Categories/vehicles/ships/06mark3.jpg,1090,664,723760
+584,C:/Users/yahel/Downloads/Categories/vehicles/ships/10sheba.jpg,1057,790,835030
+585,C:/Users/yahel/Downloads/Categories/vehicles/ships/22other.jpg,1068,770,822360
+586,C:/Users/yahel/Downloads/Categories/vehicles/ships/7marine1 (1).jpg,1304,1400,1825600
+587,C:/Users/yahel/Downloads/Categories/vehicles/ships/cows.jpg,1417,1100,1558700
+588,C:/Users/yahel/Downloads/Categories/vehicles/ships/harbour.jpg,1177,891,1048707
+589,C:/Users/yahel/Downloads/Categories/vehicles/ships/maas.jpg,800,529,423200
+590,C:/Users/yahel/Downloads/Categories/vehicles/ships/owlshead.jpg,976,590,575840
+591,C:/Users/yahel/Downloads/Categories/vehicles/ships/ragstorm (1).jpg,1524,1000,1524000
+592,C:/Users/yahel/Downloads/Categories/vehicles/ships/riverlax.jpg,1500,1141,1711500
+593,C:/Users/yahel/Downloads/Categories/vehicles/ships/seashore.jpg,1255,1210,1518550
+594,C:/Users/yahel/Downloads/Categories/weapons/gun/02andrew.jpg,1190,689,819910
+595,C:/Users/yahel/Downloads/Categories/weapons/gun/0309vela.jpg,700,1278,894600
+596,C:/Users/yahel/Downloads/Categories/weapons/gun/11group.jpg,709,1196,847964
+597,C:/Users/yahel/Downloads/Categories/weapons/gun/crawford.jpg,1000,1578,1578000
+598,C:/Users/yahel/Downloads/Categories/weapons/gun/houndgun.jpg,800,1011,808800
+599,C:/Users/yahel/Downloads/Categories/weapons/gun/sentry.jpg,1050,1215,1275750
+600,C:/Users/yahel/Downloads/Categories/weapons/gun/spaniel.jpg,1248,1000,1248000
+601,C:/Users/yahel/Downloads/Categories/weapons/knife/2passio2.jpg,602,1258,757316
+602,C:/Users/yahel/Downloads/Categories/weapons/knife/33isaac.jpg,1284,1000,1284000
+603,C:/Users/yahel/Downloads/Categories/weapons/sword/03knight.jpg,716,1027,735332
+604,C:/Users/yahel/Downloads/Categories/weapons/sword/2judith1.jpg,1002,1500,1503000
+605,C:/Users/yahel/Downloads/Categories/weapons/sword/2st_paul..jpg,765,1100,841500
+606,C:/Users/yahel/Downloads/Categories/weapons/sword/balaam (1).jpg,1511,1000,1511000
+607,C:/Users/yahel/Downloads/Categories/weapons/sword/boydell.jpg,1130,900,1017000
+608,C:/Users/yahel/Downloads/Categories/weapons/sword/duel.jpg,1250,858,1072500
+609,C:/Users/yahel/Downloads/Categories/weapons/sword/lycomede.jpg,1335,950,1268250
+610,C:/Users/yahel/Downloads/Categories/weapons/sword/portgent.jpg,700,800,560000
+611,C:/Users/yahel/Downloads/Categories/weapons/sword/saints2.jpg,490,1032,505680
+612,C:/Users/yahel/Downloads/Categories/weapons/sword/virgin.jpg,850,1260,1071000
