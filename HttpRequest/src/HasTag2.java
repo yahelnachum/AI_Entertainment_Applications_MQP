@@ -7,102 +7,80 @@ public class HasTag2 {
 
 	
 	public static void main(String[] args){
-		try{
-			String indexAndAcceptedTagsString = "IndexandAcceptedTags.txt";
-			String acceptedTagsAndSimilarTagsString = "AcceptedTagsandSimilarTags.txt";
-			String indexAndActualTagsString = "IndexandActualTags.txt";
+		try {
 			
-			System.out.println("IndexandAcceptedTags");
-			ArrayList<String[]> indexAndAcceptedTagsArray = new ArrayList<String[]>();
-			File file = new File(indexAndAcceptedTagsString);
-			Scanner sc = new Scanner(file);
+			ArrayList<String[]> acceptedAndSimilar = new ArrayList<String[]>();
+			Scanner sc = new Scanner(new File("AtWamPreCropped/AcceptedAndSimilarData.txt"));
 			while(sc.hasNextLine()){
-				String line = sc.nextLine();
-				indexAndAcceptedTagsArray.add(line.split(","));
+				String[] line = sc.nextLine().split(",");
+				acceptedAndSimilar.add(line);
 			}
 			
-			System.out.println("AcceptedTagsandSimilarTags");
-			ArrayList<String[]> acceptedTagsandSimilarTagsArrays = new ArrayList<String[]>();
-			File file1 = new File(acceptedTagsAndSimilarTagsString);
-			Scanner sc1 = new Scanner(file1);
+			ArrayList<String[]> indexAndAccepted = new ArrayList<String[]>();
+			Scanner sc1 = new Scanner(new File("AtWamPreCropped/AcceptedTagsData.txt"));
 			while(sc1.hasNextLine()){
-				String line = sc1.nextLine();
-				acceptedTagsandSimilarTagsArrays.add(line.split(","));
+				String[] line = sc1.nextLine().split(",");
+				indexAndAccepted.add(line);
 			}
 			
-			ArrayList<ArrayList<String>> indexAndSimilarTagsArray = new ArrayList<ArrayList<String>>();
-			for(int i = 0; i < indexAndAcceptedTagsArray.size(); i++){
-				ArrayList<String> indexAndSimilarTags = new ArrayList<String>();
-				String[] indexAndAcceptedTags = indexAndAcceptedTagsArray.get(i);
-				indexAndSimilarTags.add(indexAndAcceptedTags[0]);
-				
-				for(int j = 1; j < indexAndAcceptedTags.length; j++){
-					String acceptedTag = indexAndAcceptedTags[j];
-					
-					for(int k = 0; k < acceptedTagsandSimilarTagsArrays.size(); k++){
-						String[] similarTags = acceptedTagsandSimilarTagsArrays.get(k);
-						if(similarTags[0].compareTo(acceptedTag) == 0){
-							for(int l = 0; l < similarTags.length; l++){
-								indexAndSimilarTags.add(similarTags[l]);
-							}
-						}
-					}
-				}
-				
-				indexAndSimilarTagsArray.add(indexAndSimilarTags);
-			}
-			
-			for(int i = 0; i < indexAndSimilarTagsArray.size(); i++){
-				for(int j = 0; j < indexAndSimilarTagsArray.get(i).size(); j++){
-					System.out.printf("%s,",indexAndSimilarTagsArray.get(i).get(j));
-				}
-				System.out.println();
-			}
-			System.out.println(indexAndSimilarTagsArray.size());
-			System.out.println();
-			
-			System.out.println("IndexAndActualTagsString");
-			ArrayList<String[]> indexAndActualTagsStringArrays = new ArrayList<String[]>();
-			File file2 = new File(indexAndActualTagsString);
-			Scanner sc2 = new Scanner(file2);
+			ArrayList<String[]> indexAndActual = new ArrayList<String[]>();
+			Scanner sc2 = new Scanner(new File("AtWamPreCropped/ServiceTagsData.txt"));
 			while(sc2.hasNextLine()){
-				String line = sc2.nextLine();
-				indexAndActualTagsStringArrays.add(line.split(","));
+				String[] line = sc2.nextLine().split(",");
+				indexAndActual.add(line);
 			}
 			
-			for(int i = 0; i < indexAndActualTagsStringArrays.size(); i++){
-				String index = indexAndActualTagsStringArrays.get(i)[0];
-				String actualTag = indexAndActualTagsStringArrays.get(i)[1];
-				boolean found = false;
-				for(int j = 0; j < indexAndSimilarTagsArray.size(); j++){
-					ArrayList<String> indexAndSimilarTags = indexAndSimilarTagsArray.get(j);
+			StringBuilder results = new StringBuilder();
+			for(int i = 0; i < indexAndActual.size(); i++){
+				String[] indexAndActualLine = indexAndActual.get(i);
+				String index = indexAndActualLine[0];
+				String service = indexAndActualLine[1];
+				String[] actual = indexAndActualLine[2].split(" ");
+				
+				for(int j = 0; j < indexAndAccepted.size(); j++){
+					String[] indexAndAcceptedLine = indexAndAccepted.get(j);
+					String index0 = indexAndAcceptedLine[0];
+					String accepted = indexAndAcceptedLine[1];
 					
-					if(indexAndSimilarTags.get(0).compareTo(index) == 0){
-						for(int k = 1; k < indexAndSimilarTags.size(); k++){
-							String potentialTag = indexAndSimilarTags.get(k);
+					if(index.compareTo(index0) == 0){
+						for(int k = 0; k < acceptedAndSimilar.size(); k++){
+							String[] acceptedAndSimilarLine = acceptedAndSimilar.get(k);
+							String accepted0 = acceptedAndSimilarLine[0];
+							String similar = acceptedAndSimilarLine[1];
 							
-							if(actualTag.contains(potentialTag)){
-								System.out.println(potentialTag);
-								found = true;
+							if(accepted.compareTo(accepted0) == 0){
+								boolean found = false;
+								for(int l = 0; l < actual.length; l++){
+								
+									if(actual[l].compareTo(similar) == 0){
+										found = true;
+									}
+								}
+								
+								if(found){
+									results.append(index);
+									results.append(",");
+									results.append(service);
+									results.append(",");
+									results.append(indexAndActualLine[2]);
+									results.append(",");
+									results.append(accepted);
+									results.append(",");
+									results.append(similar);
+									results.append("\n");
+								}
 							}
 						}
 					}
 				}
-				
-				if(found){
-					//System.out.println("Y");
-				}
-				else{
-					//System.out.println("N");
-				}
 			}
-		} catch (FileNotFoundException e){
+			
+			
+			System.out.println(results);
+			
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-	}
-
-	private static String cut(String category) {
-		String[] values = category.split("/");
-		return values[values.length - 2];
 	}
 }
