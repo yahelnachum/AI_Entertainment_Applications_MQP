@@ -156,10 +156,33 @@ from foundtags
 group by acceptedTag
 order by count(*);
 
+-- STOP
+select acceptedTag, count(*)
+from foundtags
+group by acceptedTag
+order by count(*)
+into outfile '\\try.csv'
+FIELDS TERMINATED BY ','
+lines terminated by '\n';
+
+select count(*), acceptedTag
+from foundtags
+group by acceptedTag
+order by count(*)
+into outfile '\\try.csv'
+FIELDS TERMINATED BY ','
+lines terminated by '\n';
+-- STOP
+
 select acceptedTag, count(*)
 from acceptedTags
 group by acceptedTag
 order by count(*);
+
+select a.acceptedTag, count(b.*) as 'found',count(a.*) as actual
+from acceptedTags as a full outer join foundtags as b on a.acceptedTag = b.acceptedTag
+group by a.acceptedTag
+order by count(b.*);
 
 select service, actualtag, count(*)
 from servicetags

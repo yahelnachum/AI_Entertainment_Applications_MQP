@@ -110,3 +110,9 @@ where service = 'clarifai' and tagCorrect = 'Y'
 into outfile '\\clarifaicorrecttagvsscore.csv'
 FIELDS TERMINATED BY ','
 lines terminated by '\n';
+
+select tag, count(*)
+from serviceTags
+where tagCorrect = 'Y'
+group by tag
+order by count(*);
